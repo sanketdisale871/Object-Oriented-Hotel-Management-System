@@ -1,2 +1,3 @@
 # Object-Oriented-Hotel-Management-System
- Created a comprehensive Hotel Management System by applying key Object-Oriented Programming (OOP) concepts such as encapsulation, inheritance, abstraction, and polymorphism to address real-world challenges in the competitive hotel industry.
+Harnessing OOP Principles: Created a comprehensive Hotel Management System by applying key Object-Oriented Programming (OOP) concepts such as encapsulation, inheritance, abstraction, and polymorphism to address real-world challenges in the competitive hotel industry
+Streamlining Hotel Operations: Developed a Java-based solution using OOP methodologies, efficiently managing vast amounts of data, automating processes, and providing real-time insights into hotel operations. This project not only demonstrates OOP expertise but also highlights the practical application of OOP principles to optimize operational efficiency.
